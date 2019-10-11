@@ -2,12 +2,12 @@ from setuptools import setup
 
 
 setup(
-    name='wideq_kr',
+    name='wideq_hu',
     version='0.0.6',
-    description='LG SmartThinQ API client for Korean',
+    description='LG SmartThinQ API client for Hungarian',
     author='wkd8176',
     author_email='wkd8176@gmail.com',
-    url='https://github.com/wkd8176/wideq',
+    url='https://github.com/csirk51/wideq',
     license='MIT',
     platforms='ALL',
     install_requires=['requests'],
